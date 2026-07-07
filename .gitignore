@@ -1,6 +1,4 @@
 # Banned Binaries & Large Media
-weights/
-*.pt
 *.mp4
 *.avi
 *.mov
