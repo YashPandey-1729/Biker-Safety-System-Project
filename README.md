@@ -18,7 +18,7 @@ The custom object detection core was trained using the Ultralytics YOLO framewor
 ### 📈 Training Progression & mAP Scores
 Below is the evaluation metric graph across the training epochs, mapping the continuous decay in localization/classification loss alongside the steep scaling of bounding box precision ($mAP_{50}$ and $mAP_{50-95}$):
 
-![Training Metrics Progression](assets/training_results.png)
+![Training Metrics Progression](assets/results.png)
 
 ### 🎯 Evaluation Benchmarks
 | Class Metric | Precision ($P$) | Recall ($R$) | $mAP_{50}$ | $mAP_{50-95}$ |
